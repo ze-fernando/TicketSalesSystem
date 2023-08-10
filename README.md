@@ -1,3 +1,3 @@
-# CineSystem
+# TicketSales
 
-## Exercise of ALG2 
+Exercise of ALG2 
