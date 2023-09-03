@@ -1,3 +1,7 @@
 # TicketSales
 
-Exercise of ALG2 
+## About
+*Exercise of algotithm lesson*
+
+## App
+*You can list sales, sale a ticket, and valid a ticket*
